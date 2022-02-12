@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/BookStoreApp/BookStoreApp/obj
+/BookStoreApp/.vs/BookStoreApp/v16
+/BookStoreApp/.vs/BookStoreApp/config
